@@ -81,3 +81,18 @@
 | WF8102c                       |                          |        |      |
 
 \* The difference between SSD1675A and SSD1675B
+
+## Chip Manufacturer
+
+| Prefix | Manufacturer         |
+| ------ | -------------------- |
+| AVT    | Avatar Semiconductor |
+| EK     | Jadard Technology    |
+| GD     | (N/A)                |
+| HX     | Himax Technologies   |
+| IL     | (N/A)                |
+| JD     | Jadard Technology    |
+| SSD    | Solomon Systech      |
+| TPS    | TI                   |
+| UC     | Ultra Chip           |
+| WF     | (N/A)                |
