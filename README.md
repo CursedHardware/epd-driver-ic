@@ -83,15 +83,17 @@
 
 ## Chip Manufacturer
 
-| Prefix | Manufacturer              |
-| ------ | ------------------------- |
-| AVT    | Avatar Semiconductor      |
-| EK     | Jadard Technology         |
-| GD     | (OEM Modified)            |
-| HX     | Himax Technologies        |
-| IL     | (OEM Modified)            |
-| JD     | Jadard Technology         |
-| SSD    | Solomon Systech           |
-| TPS    | TI                        |
-| UC     | Ultra Chip                |
-| WF     | Ultra Chip (OEM Modified) |
+| Series | Manufacturer                                               |
+| ------ | ---------------------------------------------------------- |
+| AVT    | Avatar Semiconductor                                       |
+| EK     | [Jadard Technology][jadard]                                |
+| GD     | (OEM Modified)                                             |
+| HX     | [Himax Technologies](https://www.himax.com.tw)             |
+| IL     | (OEM Modified)                                             |
+| JD     | [Jadard Technology][jadard]                                |
+| SSD    | [Solomon Systech Limited](https://www.solomon-systech.com) |
+| TPS    | [TI](https://www.ti.com)                                   |
+| UC     | [Ultra Chip](http://www.ultrachip.com)                     |
+| WF     | (OEM Modified)                                             |
+
+[jadard]: http://tdytech.com
