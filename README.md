@@ -56,7 +56,7 @@
 | [UC8176c](UC8176c.pdf)        |                            |    400 | 300  |
 | [UC8179c](UC8179c.pdf)        | JD79686B                   |    800 | 600  |
 | [WF8101c](WF8101c.pdf)        | [UC8175c](UC8175c.pdf)     |     80 | 160  |
-| EK7616                        |                            |        |      |
+| EK7616                        |                            |    960 |      |
 | EK79029                       |                            |        |      |
 | EK79651AB                     | JD79651B                   |        |      |
 | EK79686AB                     | JD79686B                   |        |      |
@@ -83,17 +83,13 @@
 
 ## Chip Manufacturer
 
-| Series | Manufacturer                                               |
-| ------ | ---------------------------------------------------------- |
-| AVT    | Avatar Semiconductor                                       |
-| EK     | [Jadard Technology][jadard]                                |
-| GD     | (OEM Modified)                                             |
-| HX     | [Himax Technologies](https://www.himax.com.tw)             |
-| IL     | (OEM Modified)                                             |
-| JD     | [Jadard Technology][jadard]                                |
-| SSD    | [Solomon Systech Limited](https://www.solomon-systech.com) |
-| TPS    | [TI](https://www.ti.com)                                   |
-| UC     | [Ultra Chip](http://www.ultrachip.com)                     |
-| WF     | (OEM Modified)                                             |
-
-[jadard]: http://tdytech.com
+| Series       | Manufacturer                                                               |
+| ------------ | -------------------------------------------------------------------------- |
+| AVT          | Avatar Semiconductor                                                       |
+| EK           | [Fitipower Integrated Technology, Inc](https://www.fitipower.com)          |
+| HX           | [Himax Technologies, Inc](https://www.himax.com.tw)                        |
+| JD           | [Jadard Technology, Inc](http://tdytech.com)                               |
+| SSD          | [Solomon Systech (International) Limited](https://www.solomon-systech.com) |
+| TPS          | [Texas Instruments Incorporated](https://www.ti.com)                       |
+| UC           | [Ultra Chip, Inc](http://www.ultrachip.com)                                |
+| WF / GD / IL | (OEM Modified)                                                             |
