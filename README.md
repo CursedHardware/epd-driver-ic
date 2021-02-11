@@ -83,13 +83,19 @@
 
 ## Chip Manufacturer
 
-| Series       | Manufacturer                                                               |
-| ------------ | -------------------------------------------------------------------------- |
-| AVT          | Avatar Semiconductor                                                       |
-| EK           | [Fitipower Integrated Technology, Inc](https://www.fitipower.com)          |
-| HX           | [Himax Technologies, Inc](https://www.himax.com.tw)                        |
-| JD           | [Jadard Technology, Inc](http://tdytech.com)                               |
-| SSD          | [Solomon Systech (International) Limited](https://www.solomon-systech.com) |
-| TPS          | [Texas Instruments Incorporated](https://www.ti.com)                       |
-| UC           | [Ultra Chip, Inc](http://www.ultrachip.com)                                |
-| WF / GD / IL | (OEM Modified)                                                             |
+| Series | Manufacturer                                                                  |
+| ------ | ----------------------------------------------------------------------------- |
+| AVT    | [Avatar Semiconductor](https://www.linkedin.com/company/avatar-semiconductor) |
+| EK     | [Fitipower Integrated Technology](https://www.fitipower.com)                  |
+| GD     | [Good Display](https://www.good-display.com)                                  |
+| HX     | [Himax Technologies](https://www.himax.com.tw)                                |
+| IL     | [Good Display](https://www.good-display.com)                                  |
+| JD     | [Jadard Technology](http://tdytech.com)                                       |
+| SSD    | [Solomon Systech Limited](https://www.solomon-systech.com)                    |
+| TPS    | [Texas Instruments Incorporated](https://www.ti.com)                          |
+| UC     | [Ultra Chip](http://www.ultrachip.com)                                        |
+| WF     | [Wuxi Weifeng Technology](http://www.wf-tech.com)                             |
+
+## Caveats
+
+`GD`, `IL`, `JD`, `WF` are all driver product names renamed by resellers.
